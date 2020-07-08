@@ -7,21 +7,12 @@ I'm very passionate about learning Irish, and have started studying it again aft
 
 Most people who've done the Irish Junior Cert will remember having to learn how to write about a timpiste (accident) at some point. [This is a random story generator](https://lornitar.github.io/gaeilge/) that [Kieran Whooley](https://github.com/kieranwhooley) and I created as a bit of a joke to practice Irish between classes. It generates a story in Irish, with the English translation below.
 
-```markdown
-Syntax highlighted code block
+### Placement Tests
 
-# Header 1
-## Header 2
-### Header 3
+If you're interested in finding out your level of Irish, a few places offer short tests you can take.
+- [TEG] (http://secure.teg.ie/quiz/)
+- [Gaelchultúr] (https://www.gaelchultur.com/en/assessment.aspx)
 
-- Bulleted
-- List
+### Online Classes
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
+I've been taking classes with [Coláiste na Rinne] (https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level.
