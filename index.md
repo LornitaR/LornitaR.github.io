@@ -1,11 +1,11 @@
 ## Irish Resources
 
-I'm very passionate about learning Irish, and have started studying it again after taking a break from it after secondary school. It's my current mission to help as many people to learn Irish, by compiling useful resources, and sharing what I've learned. This section will contain a variety of links to resources as Gaeilge. Some will be educational, and some are just a bit of craic
+I'm very passionate about learning Irish, and have started studying it again after taking a break from it after secondary school. It's my current mission to help as many people to learn Irish, by compiling useful resources, and sharing what I've learned. This section will contain a variety of links to resources _as Gaeilge_. Some will be educational, and some are just a bit of craic
 
 
 ### Timpiste
 
-Most people who've done the Irish Junior Cert will remember having to learn how to write about a timpiste (accident) at some point. [This is a random story generator](https://lornitar.github.io/gaeilge/) that [Kieran Whooley](https://github.com/kieranwhooley) and I created as a bit of a joke to practice Irish between classes. It generates a story in Irish, with the English translation below.
+Most people who've done the Irish Junior Cert will remember having to learn how to write about a _timpiste_ (accident) at some point. [This is a random story generator](https://lornitar.github.io/gaeilge/) that [Kieran Whooley](https://github.com/kieranwhooley) and I created as a bit of a joke to practice Irish between classes. It generates a story in Irish, with the English translation below.
 
 ### Placement Tests
 
@@ -20,3 +20,7 @@ I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-
 ### Irish Grammar Document
 
 Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! 
+
+### Setanta Programming Language
+
+Setanta is a programming language written in Irish. Try it out [here](https://try-setanta.ie/). Created by [Eoin Davey](https://github.com/EoinDavey/Setanta) for his FYP, this is a great project for anyone interested in both programming and Irish. The first version of my _Gineadóir Timpistí_ was [made using setanta](https://github.com/LornitaR/timpiste)
