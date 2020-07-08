@@ -10,13 +10,13 @@ Most people who've done the Irish Junior Cert will remember having to learn how 
 ### Placement Tests
 
 If you're interested in finding out your level of Irish, a few places offer short tests you can take.
-- [TEG] (http://secure.teg.ie/quiz/)
-- [Gaelchultúr] (https://www.gaelchultur.com/en/assessment.aspx)
+- [TEG](http://secure.teg.ie/quiz/)
+- [Gaelchultúr](https://www.gaelchultur.com/en/assessment.aspx)
 
 ### Online Classes
 
-I've been taking classes with [Coláiste na Rinne] (https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level.
+I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level.
 
 ### Irish Grammar Document
 
-Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán] (https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! 
+Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! 
