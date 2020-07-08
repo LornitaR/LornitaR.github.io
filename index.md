@@ -15,7 +15,11 @@ If you're interested in finding out your level of Irish, a few places offer shor
 
 ### Online Classes
 
-I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level.
+I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level. There are probably others who offer online classes, but this is the only one I have experience with.
+
+### Dictionary
+
+[Teanglann](https://www.teanglann.ie/en/) is absolutely fantastic as an online dictionary. Not only does it have a dictionary, but it also has a section on grammar that is constantly being updated. They also provide voice clips for some words so that you can hear how it's said in the 3 main dialects. If you get the app, you'll also get a word of the day on the landing page.
 
 ### Irish Grammar Document
 
