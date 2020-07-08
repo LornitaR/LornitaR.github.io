@@ -1,14 +1,11 @@
-## Welcome to GitHub Pages
+## Irish Resources
 
-You can use the [editor on GitHub](https://github.com/LornitaR/LornitaR.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm very passionate about learning Irish, and have started studying it again after taking a break from it after secondary school. It's my current mission to help as many people to learn Irish, by compiling useful resources, and sharing what I've learned. This section will contain a variety of links to resources as Gaeilge. Some will be educational, and some are just a bit of craic
 
-[Image](profile)
-[Image](logo)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Timpiste
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most people who've done the Irish Junior Cert will remember having to learn how to write about a timpiste (accident) at some point. [This is a random story generator](https://lornitar.github.io/gaeilge/) that [Kieran Whooley](https://github.com/kieranwhooley) and I created as a bit of a joke to practice Irish between classes. It generates a story in Irish, with the English translation below.
 
 ```markdown
 Syntax highlighted code block
@@ -28,12 +25,3 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LornitaR/LornitaR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
