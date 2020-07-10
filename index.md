@@ -23,8 +23,11 @@ I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-
 
 ### Irish Grammar Document
 
-Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! 
+Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! [Here](https://lornitar.github.io/gramadach/)'s a sample of what's to come.
 
 ### Setanta Programming Language
 
 Setanta is a programming language written in Irish. Try it out [here](https://try-setanta.ie/). Created by [Eoin Davey](https://github.com/EoinDavey/Setanta) for his FYP, this is a great project for anyone interested in both programming and Irish. The first version of my _Gineadóir Timpistí_ was [made using setanta](https://github.com/LornitaR/timpiste)
+
+### Other Useful Resources
+[Liofa](https://www.liofa.eu/learning-irish/useful-links) also has a lot of information on available resources for Irish learning.
