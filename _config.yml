@@ -3,3 +3,4 @@ logo: 'assets/img/profile.jpg'
 title: "Lorna Ryan"
 description: 'Dia duit, agus fáilte.'
 google_analytics: UA—172334809-1
+show_excerpts: true
