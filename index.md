@@ -1,39 +1,33 @@
-## Welcome to GitHub Pages
+## Irish Resources
 
-You can use the [editor on GitHub](https://github.com/LornitaR/LornitaR.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I'm very passionate about learning Irish, and have started studying it again after taking a break from it after secondary school. It's my current mission to help as many people to learn Irish, by compiling useful resources, and sharing what I've learned. This section will contain a variety of links to resources _as Gaeilge_. Some will be educational, and some are just a bit of craic
 
-[Image](profile)
-[Image](logo)
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Timpiste
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Most people who've done the Irish Junior Cert will remember having to learn how to write about a _timpiste_ (accident) at some point. [This is a random story generator](https://lornitar.github.io/gaeilge/) that [Kieran Whooley](https://github.com/kieranwhooley) and I created as a bit of a joke to practice Irish between classes. It generates a story in Irish, with the English translation below.
 
-```markdown
-Syntax highlighted code block
+### Placement Tests
 
-# Header 1
-## Header 2
-### Header 3
+If you're interested in finding out your level of Irish, a few places offer short tests you can take.
+- [TEG](http://secure.teg.ie/quiz/)
+- [Gaelchultúr](https://www.gaelchultur.com/en/assessment.aspx)
 
-- Bulleted
-- List
+### Online Classes
 
-1. Numbered
-2. List
+I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-courses/), and highly recommend them. I've taken 2 groups of classes with them, and plan on taking more in the future, once I feel confident enough to attempt the next level. There are probably others who offer online classes, but this is the only one I have experience with.
 
-**Bold** and _Italic_ and `Code` text
+### Dictionary
 
-[Link](url) and ![Image](src)
-```
+[Teanglann](https://www.teanglann.ie/en/) is absolutely fantastic as an online dictionary. Not only does it have a dictionary, but it also has a section on grammar that is constantly being updated. They also provide voice clips for some words so that you can hear how it's said in the 3 main dialects. If you get the app, you'll also get a word of the day on the landing page.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Irish Grammar Document
 
-### Jekyll Themes
+Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! [Here](https://lornitar.github.io/gramadach/)'s a sample of what's to come.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LornitaR/LornitaR.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Setanta Programming Language
 
-### Support or Contact
+Setanta is a programming language written in Irish. Try it out [here](https://try-setanta.ie/). Created by [Eoin Davey](https://github.com/EoinDavey/Setanta) for his FYP, this is a great project for anyone interested in both programming and Irish. The first version of my _Gineadóir Timpistí_ was [made using setanta](https://github.com/LornitaR/timpiste)
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Other Useful Resources
+[Liofa](https://www.liofa.eu/learning-irish/useful-links) also has a lot of information on available resources for Irish learning.

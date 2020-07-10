@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
-profile: 'assets/img/profile.jpg'
-logo: 'assets/img/favicon.ico'
+logo: 'assets/img/profile.jpg'
+title: "Lorna Ryan"
+description: 'Dia duit, agus fáilte.'
+google_analytics: UA—172334809-1
