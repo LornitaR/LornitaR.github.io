@@ -23,7 +23,7 @@ I've been taking classes with [Coláiste na Rinne](https://www.anrinn.com/adult-
 
 ### Irish Grammar Document
 
-Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). Watch this space! [Here](https://lornitar.github.io/gramadach/)'s a sample of what's to come.
+Another project I've taken on is writing a large document with as much information as I can gather on Irish grammar, since this is impossible to find unless you're already fluent and can understand the [caighdeán](https://www.oireachtas.ie/en/publications/?q=An%20Caighde%C3%A1n%20Oifigi%C3%BAil). [Here](https://lornitar.github.io/gramadach/)'s what I've done so far. It currently contains all of the irregular verbs in the past, present, future, and conditional.
 
 ### Setanta Programming Language
 
