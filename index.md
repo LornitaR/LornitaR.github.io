@@ -31,3 +31,9 @@ Setanta is a programming language written in Irish. Try it out [here](https://tr
 
 ### Other Useful Resources
 [Liofa](https://www.liofa.eu/learning-irish/useful-links) also has a lot of information on available resources for Irish learning.
+
+### Irish Businesses
+
+Here are some businesses based in Ireland that support the promotion of the Irish language:
+- [Gaeilgheansaí](https://gaeilgheansai.com/pages/ar-sceal-our-story)
+- [Irish Glow](https://www.irishglow.com/)
