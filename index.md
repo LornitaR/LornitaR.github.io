@@ -2,7 +2,7 @@
 
 I'm very passionate about learning Irish, and have started studying it again after taking a break from it after secondary school. It's my current mission to help as many people to learn Irish, by compiling useful resources, and sharing what I've learned. This section will contain a variety of links to resources _as Gaeilge_. Some will be educational, and some are just a bit of craic.
 
-Check out [my blog](https://gramadachlelorna.wixsite.com/gaeilgebriste), or follow me on [Twitter](https://twitter.com/gaeilge_briste?lang=en)
+Check out [my blog](https://gramadachlelorna.wixsite.com/gaeilgebhriste), or follow me on [Twitter](https://twitter.com/gaeilge_bhriste?lang=en)
 
 
 ### Timpiste
